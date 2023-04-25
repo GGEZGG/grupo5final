@@ -39,11 +39,9 @@ public class Main {
       
        }
       
-           int val=2;
            
            ResultSet rs=null;
            ResultSet rpron=null;
-           ResultSet requip=null;
 
    		//====EQUIPO====
 
